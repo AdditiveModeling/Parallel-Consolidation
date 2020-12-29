@@ -1,0 +1,2 @@
+# Powder-Layer-Consolidation
+This is a partial adaptation of the MATLAB consolidation code into C. Currently the code is only written to run in serial, but can be adapted into parallel after finishing the code. The code works in the same manner as the MATLAB consolidation code, and is written up until the point where the system of equations is solved to get the displacements for the consolidation.
